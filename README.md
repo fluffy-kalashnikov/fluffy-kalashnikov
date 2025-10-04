@@ -10,3 +10,5 @@ I'm a game developer working primarily with technical art and game programming. 
 * [f3d](https://github.com/f3d-app/f3d)
 * [PureRef](https://www.pureref.com/)
 * [Allusion](https://allusion-app.github.io/)
+* [RenderDoc](https://renderdoc.org/)
+* [NVIDIA Nsight Graphics](https://developer.nvidia.com/nsight-graphics)
