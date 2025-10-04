@@ -1,7 +1,7 @@
 # Hi there!
 I'm a game developer working primarily with technical art and game programming.
 
-## Software I find useful
+## Funky software I find useful
 * [Game Texture Viewer](https://jangafx.com/software/gametextureviewer)
 * [GraphToy+](https://graphtoy-plus.csprance.com/)
 * [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/)
