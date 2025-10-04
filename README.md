@@ -1,5 +1,5 @@
 # Hi there!
-I'm a game developer working primarily with technical art and game programming.
+I'm a game developer working primarily with technical art and game programming. Feel free to check out my portfolio at [sidorsson.com](https://sidorsson.com/)!
 
 ## Funky software I find useful
 * [Game Texture Viewer](https://jangafx.com/software/gametextureviewer)
